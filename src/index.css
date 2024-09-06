@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+#pers {
+  height: 526px;
+  width: 410px;
+}
+button {
+  font-weight: 500;
+  size: 18px;
+  line-height: 21.78px;
+  color: #a6a6a6;
+}
+button:hover {
+  color: #000000;
+}
