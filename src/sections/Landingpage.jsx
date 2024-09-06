@@ -1,6 +1,6 @@
 import Navbar from "../Components/Navbar";
 import Support from "../Components/Support";
-import Company from "../Components/company";
+import Company from "../Components/Company";
 import Content from "../Components/content";
 import Features from "../Components/Features";
 import Benefits from "../Components/Benefits";
